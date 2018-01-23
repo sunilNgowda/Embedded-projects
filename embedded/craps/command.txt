@@ -1,0 +1,1 @@
+cl /EHsc tb_craps.cpp craps.cpp /link /out:program2.exe
